@@ -1,0 +1,11 @@
+langgraph
+langchain
+grandalf
+typer
+colorama
+dotenv
+openai
+langchain_openai
+GitPython
+PyGithub
+black

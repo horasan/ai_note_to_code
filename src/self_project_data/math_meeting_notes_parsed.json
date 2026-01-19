@@ -1,0 +1,15 @@
+{
+  "project_name": "SimpleMathLib",
+  "tasks": [
+    {
+      "id": 1,
+      "task_name": "Feature 1 (Sum)",
+      "description": "Implement a function sum(a: int, b: int) -> int inside math_core.py. It should return the addition of the two numbers."
+    },
+    {
+      "id": 2,
+      "task_name": "Feature 2 (Multiply)",
+      "description": "Implement a function multiply(a: int, b: int) -> int inside math_core.py. It should return the product of the two numbers."
+    }
+  ]
+}
